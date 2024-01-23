@@ -24,6 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost:8080/test_ci/';
+// $config['base_url'] = 'http://riskidwi.cloud/';
 
 /*
 |--------------------------------------------------------------------------
