@@ -1,5 +1,5 @@
 <?php
-class bukukita_model extends CI_Model {
+class Bukukita_model extends CI_Model {
     
     public function getAllbuku() {
         return $this->db->get('detailbuku')->result_array();
